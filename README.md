@@ -1,2 +1,8 @@
 # anatolian
-open source operating system
+```
+// initial moon-culminating
+var mc TR = true
+function() {
+    for(;mc;)
+}
+```
